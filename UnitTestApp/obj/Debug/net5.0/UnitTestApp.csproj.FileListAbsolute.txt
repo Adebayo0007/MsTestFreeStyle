@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\TestingModel\UnitTestApp\bin\Debug\net5.0\UnitTestApp.exe
+C:\Users\user\Desktop\TestingModel\UnitTestApp\bin\Debug\net5.0\UnitTestApp.deps.json
+C:\Users\user\Desktop\TestingModel\UnitTestApp\bin\Debug\net5.0\UnitTestApp.runtimeconfig.json
+C:\Users\user\Desktop\TestingModel\UnitTestApp\bin\Debug\net5.0\UnitTestApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\TestingModel\UnitTestApp\bin\Debug\net5.0\UnitTestApp.dll
+C:\Users\user\Desktop\TestingModel\UnitTestApp\bin\Debug\net5.0\UnitTestApp.pdb
+C:\Users\user\Desktop\TestingModel\UnitTestApp\obj\Debug\net5.0\UnitTestApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TestingModel\UnitTestApp\obj\Debug\net5.0\UnitTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TestingModel\UnitTestApp\obj\Debug\net5.0\UnitTestApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TestingModel\UnitTestApp\obj\Debug\net5.0\UnitTestApp.AssemblyInfo.cs
+C:\Users\user\Desktop\TestingModel\UnitTestApp\obj\Debug\net5.0\UnitTestApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TestingModel\UnitTestApp\obj\Debug\net5.0\UnitTestApp.dll
+C:\Users\user\Desktop\TestingModel\UnitTestApp\obj\Debug\net5.0\refint\UnitTestApp.dll
+C:\Users\user\Desktop\TestingModel\UnitTestApp\obj\Debug\net5.0\UnitTestApp.pdb
+C:\Users\user\Desktop\TestingModel\UnitTestApp\obj\Debug\net5.0\UnitTestApp.genruntimeconfig.cache
+C:\Users\user\Desktop\TestingModel\UnitTestApp\obj\Debug\net5.0\ref\UnitTestApp.dll
